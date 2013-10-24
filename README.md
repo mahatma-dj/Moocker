@@ -3,7 +3,7 @@ Moocker
 
 A web app that indexes MOOCs, and will enable users to create and save a learning plan of their very own.
 
-Nothing has been uploaded to the repo yet as I've only written the webscrapers so far. I'll upload these shortly.
+Nothing has been uploaded to the repo yet as I've only written the webscrapers so far.The one for edx.org is there. Ill add the others soon.
 
 The site itself is being developed using Flask (and so Python) - but Im still learning to use this framework. 
 
